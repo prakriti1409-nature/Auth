@@ -19,8 +19,8 @@ This full-stack web application enables users and celebrities to onboard themsel
 
 ---
 
-## 📁 Project Structure : https://www.loom.com/share/fe71aad2e86544469db663d94e823fae
-## Deployment  : https://auth-gsmp.vercel.app/
+
+### Deployment  : https://auth-gsmp.vercel.app/
 
 
 ---
